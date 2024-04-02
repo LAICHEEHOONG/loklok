@@ -1,0 +1,5 @@
+// location.reload();
+
+document.cookie =
+  "token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnb29nbGVJZCI6IjExNTkzNzQ4MzY3MTYyODYwODI2OSIsIm5pY2tOYW1lIjoiTG9rbG9rMUE5NTg1QSIsImN1cnJlbnRUaW1lTWlsbGlzIjoxNzExOTU0ODI1MDA3LCJleHAiOjE3MTQ1NDY4MjUsInVzZXJJZCI6Mjc4NzU0MTh9.oeGNDZjp8Kw4lZMW64jKzlEISjxULq1xPstSDDBVNvA";
+console.log("loklok login");

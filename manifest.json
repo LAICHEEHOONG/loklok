@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "loklok login",
+  "version": "1.0",
+  "icons": {
+    "16": "/loklok16.png",
+    "48": "/loklok48.png",
+    "128": "/loklok128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://loklok.com/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+
+
+}
